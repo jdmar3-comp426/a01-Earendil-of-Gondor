@@ -64,3 +64,10 @@ a:hover {
 img {
     background-color: black;
 }
+
+.source-text {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    align-self: center;
+}
