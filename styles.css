@@ -1,0 +1,26 @@
+.header {
+    display: table;
+    width: 100%;
+    padding: 12px;
+}
+
+.home-button-container {
+    display: table-cell;
+    float: left;
+    width: 30%;
+}
+
+.top-button-parent-container {
+    display: table-cell;
+    float: right;
+    width: 70%;
+}
+
+.buffer {
+    display: table;
+    width: 100%;
+}
+
+.buffer .top-button-container {
+    display: table-cell;
+}
